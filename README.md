@@ -5,7 +5,7 @@
 *****
 
 * By: Tyler Sojka
-* December 2020
+* January 2020
 * Statistics and R: Using R to preform various statistical tests.
   
 *****
